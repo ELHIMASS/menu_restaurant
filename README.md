@@ -1,17 +1,12 @@
-# menu_restaurant
+# Menu d'un Restaurant
 
-A new Flutter project.
+Application mobile développée avec Flutter pour afficher et naviguer dans le menu interactif d'un restaurant.
 
-## Getting Started
+## Fonctionnalités principales
+- **Navigation par catégories :** Barre de défilement horizontal (Formules, Entrées, Plats, Desserts).
+- **Filtrage dynamique :** Affichage en temps réel des plats correspondant à la catégorie sélectionnée.
+- **Composant réutilisable (`DishCard`) :** Cartes esthétiques affichant l'image, le nom, le prix et la description de chaque plat.
+- **Design responsive :** Adapté aux modes portrait et paysage.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Auteur
+- EL HIMASS Ismail
